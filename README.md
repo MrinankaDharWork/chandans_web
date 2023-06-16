@@ -6,3 +6,4 @@
 ### cd {folder}
 ### npm install
 ### npm run dev
+and Voilà the app is running in localhost
